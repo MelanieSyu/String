@@ -1,0 +1,23 @@
+{
+  "name": "string",
+  "version": "1.0.0",
+  "description": "работа со строками",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieSyu/String.git"
+  },
+  "author": "Milana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelanieSyu/String/issues"
+  },
+  "homepage": "https://github.com/MelanieSyu/String#readme",
+  "dependencies": {
+    "mocha": "6.2.2",
+    "chai": "4.2.0"
+  }
+}
