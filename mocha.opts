@@ -1,0 +1,5 @@
+--colors
+--recursive
+-require '@babel/register'
+--test/**/*.test.js
+-r ./testConfig/test-config.js
